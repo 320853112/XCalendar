@@ -30,7 +30,7 @@
 
 ### 原型图：
 
-![image-20201111121110140](C:\Users\xuhang01\AppData\Roaming\Typora\typora-user-images\image-20201111121110140.png)
+![image-20201111121110140](https://github.com/320853112/XCalendar/blob/master/resource/%E5%8E%9F%E5%9E%8B.png?raw=true)
 
 
 
